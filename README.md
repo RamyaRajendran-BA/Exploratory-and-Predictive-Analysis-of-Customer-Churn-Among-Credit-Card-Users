@@ -1,0 +1,2 @@
+# Exploratory-and-Predictive-Analysis-of-Customer-Churn-Among-Credit-Card-Users
+This research aims to uncover key insights that businesses can leverage to improve retention. Predictive analytics, in particular, offers the potential to not only pinpoint at-risk customers but also to customize retention efforts in a way that resonates with individual preferences, enhancing the overall customer experience.
